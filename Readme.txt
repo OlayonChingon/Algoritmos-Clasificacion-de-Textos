@@ -1,0 +1,1 @@
+En este repositorio estan apuntes y trabajos del curso de Algoritmos de Clasificacion de textos
