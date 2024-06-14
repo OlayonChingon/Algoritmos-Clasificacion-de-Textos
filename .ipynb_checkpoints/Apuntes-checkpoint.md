@@ -76,8 +76,6 @@ Aplicaciones:
 - Censura en redes sociales.
 - Orden de datos no-estructurados.
 
-- nota: La cita "Automatización en manejo de CRMs" se refiere a la aplicación de la automatización en el manejo de los Customer Relationship Management (CRM). Un CRM es un sistema diseñado para gestionar las relaciones con los clientes, almacenar datos relacionados con ellos y facilitar la interacción y el seguimiento de las actividades comerciales.
-
 ![desambiguacion_6](src/desambiguacion_6.png)
 
 ### Clase 2 Etiquetado rápido en Python: español e inglés
@@ -90,13 +88,9 @@ Etiquetado en ingles
 
 ![etiquetado_rapido_1](src/etiquetado_rapido_1.png)
 
-![etiquetado_rapido_2](src/etiquetado_rapido_2.png)
-
-![etiquetado_rapido_2](src/etiquetado_rapido_3.png)
-
 Como observas es sencillo realizar el etiquetado de palabras en ingles puesto que nltk tiene algoritmos pre-entrenados, la historia no es asi en español, por lo que es preciso entrenar nuestro algoritmo previamente.
 
-
+![etiquetado_rapido_2](src/etiquetado_rapido_2.png)
 
 ### Clase 3 Etiquetado rapido en Python: Stanza (Stanford NLP)
 
