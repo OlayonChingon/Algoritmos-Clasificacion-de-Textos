@@ -92,8 +92,6 @@ Etiquetado en ingles
 
 ![etiquetado_rapido_2](src/etiquetado_rapido_2.png)
 
-![etiquetado_rapido_2](src/etiquetado_rapido_3.png)
-
 ![etiquetado_rapido_2](src/etiquetado_rapido_4.png)
 
 ![etiquetado_rapido_2](src/etiquetado_rapido_5.png)
