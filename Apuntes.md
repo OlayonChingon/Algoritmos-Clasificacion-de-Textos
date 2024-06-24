@@ -94,7 +94,14 @@ Etiquetado en ingles
 
 ![etiquetado_rapido_2](src/etiquetado_rapido_3.png)
 
-Como observas es sencillo realizar el etiquetado de palabras en ingles puesto que nltk tiene algoritmos pre-entrenados, la historia no es asi en español, por lo que es preciso entrenar nuestro algoritmo previamente.
+![etiquetado_rapido_2](src/etiquetado_rapido_4.png)
+
+![etiquetado_rapido_2](src/etiquetado_rapido_5.png)
+
+![etiquetado_rapido_2](src/etiquetado_rapido_6.png)
+
+Como observas es sencillo realizar el etiquetado de
+palabras en ingles puesto que nltk tiene algoritmos pre-entrenados, la historia no es asi en español, por lo que es preciso entrenar nuestro algoritmo previamente.
 
 
 
