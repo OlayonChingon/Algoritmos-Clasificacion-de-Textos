@@ -87,7 +87,6 @@ En la clase anterior vimos que el problema grande del procesamiento del lenguaje
 
 Para esta clase utilizaremos [esta plantilla](https://colab.research.google.com/drive/1NvQP7HipzJ0OF0bjkkfzwVUwYVoRoBP8?usp=sharing) en google Collab
 
-Ver notebook [Stanza](https://colab.research.google.com/drive/1wNldWSfyWg0DoRNLAR-T9IGzlY9XxqwR#scrollTo=RCRMb1h7lL4i)
 
 Etiquetado en ingles
 
@@ -109,6 +108,8 @@ palabras en ingles puesto que nltk tiene algoritmos pre-entrenados, la historia 
 ### Clase 3 Etiquetado rapido en Python: Stanza (Stanford NLP)
 
 Stanza es una librería desarrollada por el grupo de investigación de lenguaje natural de la Universidad de Stanford.
+
+Ver notebook [Stanza](https://colab.research.google.com/drive/1wNldWSfyWg0DoRNLAR-T9IGzlY9XxqwR#scrollTo=RCRMb1h7lL4i)
 
 ![Stanza_1](src/Stanza_1.png)
 
