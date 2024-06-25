@@ -107,7 +107,21 @@ palabras en ingles puesto que nltk tiene algoritmos pre-entrenados, la historia 
 
 Stanza es una librería desarrollada por el grupo de investigación de lenguaje natural de la Universidad de Stanford.
 
-![etiquetado_rapido_3](src/etiquetado_rapido_3.png)
+![Stanza_1](src/Stanza_1.png)
+
+![Stanza_2](src/Stanza_2.png)
+
+![Stanza_1](src/Stanza_3.png)
+
+![Stanza_1](src/Stanza_1.png)
+
+![Stanza_1](src/Stanza_1.png)
+
+![Stanza_1](src/Stanza_1.png)
+
+En términos generales, spaCy-Stanza puede ser más rápido en algunos casos debido a su integración con spaCy, que está optimizada para el procesamiento eficiente de texto. spaCy utiliza una arquitectura eficiente y utiliza técnicas de procesamiento paralelo para acelerar el procesamiento de texto.
+
+Sin embargo, en términos de precisión y calidad del procesamiento, Stanza ha demostrado ser una biblioteca muy sólida. Stanza utiliza modelos neuronales profundos basados en Transformer, que han demostrado un alto rendimiento en una variedad de tareas de procesamiento de lenguaje natural.
 
 ## Modulo 2. Modelos Markovianos Latentes (HMM)
 
