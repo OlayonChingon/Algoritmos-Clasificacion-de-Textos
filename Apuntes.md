@@ -84,7 +84,10 @@ Aplicaciones:
 
 En la clase anterior vimos que el problema grande del procesamiento del lenguaje natural es la ambigüedad y se resuelve con clasificación.
 
+
 Para esta clase utilizaremos [esta plantilla](https://colab.research.google.com/drive/1NvQP7HipzJ0OF0bjkkfzwVUwYVoRoBP8?usp=sharing) en google Collab
+
+Ver notebook [Stanza](https://colab.research.google.com/drive/1wNldWSfyWg0DoRNLAR-T9IGzlY9XxqwR#scrollTo=RCRMb1h7lL4i)
 
 Etiquetado en ingles
 
@@ -111,13 +114,13 @@ Stanza es una librería desarrollada por el grupo de investigación de lenguaje 
 
 ![Stanza_2](src/Stanza_2.png)
 
-![Stanza_1](src/Stanza_3.png)
+![Stanza_3](src/Stanza_3.png)
 
-![Stanza_1](src/Stanza_1.png)
+![Stanza_4](src/Stanza_4.png)
 
-![Stanza_1](src/Stanza_1.png)
+![Stanza_5](src/Stanza_5.png)
 
-![Stanza_1](src/Stanza_1.png)
+![Stanza_6](src/Stanza_6.png)
 
 En términos generales, spaCy-Stanza puede ser más rápido en algunos casos debido a su integración con spaCy, que está optimizada para el procesamiento eficiente de texto. spaCy utiliza una arquitectura eficiente y utiliza técnicas de procesamiento paralelo para acelerar el procesamiento de texto.
 
